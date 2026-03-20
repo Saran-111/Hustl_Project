@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.hustl.app'
+    namespace 'HustL.com'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.hustl.app"
+        applicationId "HustL.com"
         minSdk 24
         targetSdk 34
         versionCode 1

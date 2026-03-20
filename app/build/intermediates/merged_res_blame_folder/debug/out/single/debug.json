@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_item_gig.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/item_gig.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_place_order.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_place_order.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_splash.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_item_message_received.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/color_bottom_nav_color.xml.flat",
+        "source": "HustL.com.app-main-60:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_bg_search.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_ic_inbox.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/ic_inbox.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_bg_message_sent.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/bg_message_sent.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_item_review.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/item_review.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/menu_bottom_nav_menu.xml.flat",
+        "source": "HustL.com.app-main-60:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_chat.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_order_detail.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_order_detail.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_ic_profile.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_ic_orders.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/ic_orders.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_bg_message_received.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/bg_message_received.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_ic_placeholder.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/ic_placeholder.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_ic_back_white.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/ic_back_white.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_fragment_inbox.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/fragment_inbox.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_ic_send.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/navigation_nav_graph.xml.flat",
+        "source": "HustL.com.app-main-60:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_item_chat.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/item_chat.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_gig_detail.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_gig_detail.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_create_gig.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_create_gig.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_bg_circle_translucent.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/bg_circle_translucent.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_fragment_home.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_ic_back.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_fragment_profile.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_item_order.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/item_order.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_login.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_bg_category_chip.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/bg_category_chip.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_ic_home.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_item_message_sent.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/color_category_text_selector.xml.flat",
+        "source": "HustL.com.app-main-60:/color/category_text_selector.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/drawable_ic_profile_placeholder.xml.flat",
+        "source": "HustL.com.app-main-60:/drawable/ic_profile_placeholder.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_onboarding.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_register.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_register.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_activity_main.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_item_category.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/item_category.xml"
+    },
+    {
+        "merged": "HustL.com.app-merged_res-58:/layout_fragment_orders.xml.flat",
+        "source": "HustL.com.app-main-60:/layout/fragment_orders.xml"
+    }
+]

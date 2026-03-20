@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/item_category.xml",
+        "source": "HustL.com.app-main-60:/layout/item_category.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_gig_detail.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_gig_detail.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_place_order.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_place_order.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/item_review.xml",
+        "source": "HustL.com.app-main-60:/layout/item_review.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/item_message_sent.xml",
+        "source": "HustL.com.app-main-60:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_chat.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/item_order.xml",
+        "source": "HustL.com.app-main-60:/layout/item_order.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/fragment_profile.xml",
+        "source": "HustL.com.app-main-60:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/item_gig.xml",
+        "source": "HustL.com.app-main-60:/layout/item_gig.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_splash.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_create_gig.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_create_gig.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_register.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_register.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_onboarding.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_login.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/item_message_received.xml",
+        "source": "HustL.com.app-main-60:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/activity_order_detail.xml",
+        "source": "HustL.com.app-main-60:/layout/activity_order_detail.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/fragment_home.xml",
+        "source": "HustL.com.app-main-60:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/fragment_orders.xml",
+        "source": "HustL.com.app-main-60:/layout/fragment_orders.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/fragment_inbox.xml",
+        "source": "HustL.com.app-main-60:/layout/fragment_inbox.xml"
+    },
+    {
+        "merged": "HustL.com.app-mergeDebugResources-57:/layout/item_chat.xml",
+        "source": "HustL.com.app-main-60:/layout/item_chat.xml"
+    }
+]
