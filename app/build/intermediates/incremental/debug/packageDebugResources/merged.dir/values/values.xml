@@ -4,10 +4,12 @@
     <color name="card_bg">#FFFFFF</color>
     <color name="divider">#EEEEEE</color>
     <color name="error_red">#E53935</color>
+    <color name="gray">#74767E</color>
     <color name="hustl_green">#1DBF73</color>
     <color name="hustl_green_dark">#19A463</color>
     <color name="message_received">#F0F0F0</color>
     <color name="message_sent">#1DBF73</color>
+    <color name="primary">#1DBF73</color>
     <color name="text_primary">#222325</color>
     <color name="text_secondary">#74767E</color>
     <color name="white">#FFFFFF</color>
