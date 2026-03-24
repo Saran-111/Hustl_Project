@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace 'HustL.com'
+    namespace 'com.hustl.app'
     compileSdk 34
 
     defaultConfig {

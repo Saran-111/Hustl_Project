@@ -2,6 +2,7 @@ package com.hustl.app.ui.auth
 
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import android.widget.Toast
 import androidx.activity.viewModels
@@ -50,10 +51,12 @@ class RegisterActivity : AppCompatActivity() {
 
         viewModel.registerResult.observe(this) { result ->
             result.onSuccess {
+                Log.d("AuthError", "Registration Successful")
                 startActivity(Intent(this, MainActivity::class.java))
                 finish()
             }.onFailure { error ->
-                Toast.makeText(this, "Registration failed: ${error.message}", Toast.LENGTH_SHORT).show()
+                Log.e("AuthError", "Registration Failed: ${error.message}", error)
+                Toast.makeText(this, "Registration failed: ${error.message}", Toast.LENGTH_LONG).show()
             }
         }
     }

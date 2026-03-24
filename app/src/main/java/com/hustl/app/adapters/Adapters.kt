@@ -5,8 +5,6 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.bumptech.glide.Glide
-import com.hustl.app.R
 import com.hustl.app.data.model.Chat
 import com.hustl.app.data.model.Message
 import com.hustl.app.data.model.Order
@@ -71,9 +69,11 @@ class MessageAdapter(private val currentUserId: String) :
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         return if (viewType == VIEW_TYPE_SENT) {
-            ViewHolder(ItemMessageSentBinding.inflate(LayoutInflater.from(parent.context), parent, false), true)
+            val binding = ItemMessageSentBinding.inflate(LayoutInflater.from(parent.context), parent, false)
+            ViewHolder(binding.root, true)
         } else {
-            ViewHolder(ItemMessageReceivedBinding.inflate(LayoutInflater.from(parent.context), parent, false), false)
+            val binding = ItemMessageReceivedBinding.inflate(LayoutInflater.from(parent.context), parent, false)
+            ViewHolder(binding.root, false)
         }
     }
 
